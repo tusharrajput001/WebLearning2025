@@ -1,0 +1,67 @@
+🧠 WEB Mastery Roadmap (From Zero to Pro)
+
+🧾 Phase 1: JavaScript Refresher (2–3 Days)
+Goal: React use karne ke liye JS pe solid grip
+✅ Variables, functions, objects, arrays
+✅ ES6: let/const, arrow functions, template literals
+✅ Array methods: map, filter, find, reduce
+✅ DOM basics (not deeply needed in React)
+✅ fetch API, Promises, async/await
+
+
+⚡ 3-Day JavaScript Refresher Plan (Only What's Needed for React)
+
+✅ Day 1 – JS Core + ES6
+🧠 Goal: Syntax + functions + arrays + objects + ES6
+Learn:
+let, const, var – scope difference ✅
+Arrow functions ()=>{} ✅
+Template literals `Hello ${name}`✅
+Object & array destructuring ✅
+Spread/rest operator ...✅
+Array methods: map, filter, find, reduce ✅
+
+Practice (20–30 mins):
+ Create array of numbers → filter even numbers ✅
+ Map over array of users → return names ✅
+ Use object destructuring in a function ✅
+ Merge two arrays/objects using spread
+
+---------- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ---------------
+
+
+
+
+
+✅ Day 2 – Functions, Async, Promises
+🧠 Goal: Logic + async flow samajhna (React + API ke liye must)
+Learn:
+Callback vs Promise vs async/await
+fetch() API calls
+setTimeout, setInterval
+Arrow vs normal function behavior with this
+Practice:
+ Create fake fetch API using setTimeout
+ Write a function using async/await
+ Chain 2 Promises and handle errors
+ Timer using setInterval (auto stop after 10 secs)
+
+
+
+
+
+
+
+✅ Day 3 – DOM + LocalStorage + Real Practice
+🧠 Goal: DOM events, simple UI control + local storage use
+Learn:
+document.querySelector(), addEventListener()
+localStorage.setItem(), getItem()
+JSON.stringify / parse
+Form input handling
+Mini Project:
+ Counter App (Button + / -)
+ Form that saves name in localStorage
+ Dark/Light Mode toggle using button
+🔁 Optional: One 30-minute LeetCode Session (DSA touch)
+Just solve 1-2 array or string problems (Easy level)

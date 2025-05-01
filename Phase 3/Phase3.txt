@@ -1,0 +1,13 @@
+🧰 Phase 3: Intermediate React (7–10 Days)
+Goal: React applications build karna with confidence
+✅ useEffect (run on mount / update)
+✅ Forms in React (controlled components)
+✅ Lifting state up
+✅ Component communication (parent-child)
+✅ Basic project folder structure
+✅ Conditional UI (based on API response/state)
+
+🧪 Projects:
+ Weather App (OpenWeather API)
+ Todo App (add/delete/mark)
+ GitHub User Finder (with loading & error state)

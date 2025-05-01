@@ -1,4 +1,4 @@
-🧠 React Mastery Roadmap (From Zero to Pro)
+🧠 WEB Mastery Roadmap (From Zero to Pro)
 
 🧾 Phase 1: JavaScript Refresher (2–3 Days)
 Goal: React use karne ke liye JS pe solid grip
@@ -9,186 +9,92 @@ Goal: React use karne ke liye JS pe solid grip
 ✅ fetch API, Promises, async/await
 
 
-⚡ 3-Day JavaScript Refresher Plan (Only What's Needed for React)
-
-✅ Day 1 – JS Core + ES6
-🧠 Goal: Syntax + functions + arrays + objects + ES6
-Learn:
-let, const, var – scope difference ✅
-Arrow functions ()=>{} ✅
-Template literals `Hello ${name}`✅
-Object & array destructuring ✅
-Spread/rest operator ...✅
-Array methods: map, filter, find, reduce ✅
-
-Practice (20–30 mins):
- Create array of numbers → filter even numbers ✅
- Map over array of users → return names ✅
- Use object destructuring in a function ✅
- Merge two arrays/objects using spread
-
----------- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ---------------
-
-
-
-
-
-✅ Day 2 – Functions, Async, Promises
-🧠 Goal: Logic + async flow samajhna (React + API ke liye must)
-Learn:
-Callback vs Promise vs async/await
-fetch() API calls
-setTimeout, setInterval
-Arrow vs normal function behavior with this
-Practice:
- Create fake fetch API using setTimeout
- Write a function using async/await
- Chain 2 Promises and handle errors
- Timer using setInterval (auto stop after 10 secs)
-
-
-
-
-
-
-
-✅ Day 3 – DOM + LocalStorage + Real Practice
-🧠 Goal: DOM events, simple UI control + local storage use
-Learn:
-document.querySelector(), addEventListener()
-localStorage.setItem(), getItem()
-JSON.stringify / parse
-Form input handling
-Mini Project:
- Counter App (Button + / -)
- Form that saves name in localStorage
- Dark/Light Mode toggle using button
-🔁 Optional: One 30-minute LeetCode Session (DSA touch)
-Just solve 1-2 array or string problems (Easy level)
-
-
-
-
-
 
 
 ⚛️ Phase 2: React Fundamentals (7 Days)
 Goal: React ka flow samajhna + components banana
-
 ✅ Setting up React (Vite recommended)
-
 ✅ JSX syntax
-
 ✅ Functional Components
-
 ✅ props (data pass from parent to child)
-
 ✅ useState for state management
-
 ✅ Event handling (onClick, onChange)
-
 ✅ map() for rendering lists
-
 ✅ Conditional rendering (if, ternary, &&)
-
 ✅ Component reuse & folder structure
 
 🧪 Practice Mini Projects:
-
  Counter App
-
  Greeting component (props)
-
  Dynamic List display (array of names/tasks)
+
+
+
+
+
+
 
 🧰 Phase 3: Intermediate React (7–10 Days)
 Goal: React applications build karna with confidence
-
 ✅ useEffect (run on mount / update)
-
 ✅ Forms in React (controlled components)
-
 ✅ Lifting state up
-
 ✅ Component communication (parent-child)
-
 ✅ Basic project folder structure
-
 ✅ Conditional UI (based on API response/state)
 
 🧪 Projects:
-
  Weather App (OpenWeather API)
-
  Todo App (add/delete/mark)
-
  GitHub User Finder (with loading & error state)
+
+
+
+
+
 
 📂 Phase 4: Advanced React Concepts (10–15 Days)
 Goal: Real-world app features banana
-
 ✅ useContext for global state
-
 ✅ useReducer (for advanced state logic)
-
 ✅ Custom Hooks
-
 ✅ React Router v6 (Pages, navigation)
-
 ✅ Form validation with libraries (like yup, formik)
-
 ✅ API handling + loading/error UI
-
 ✅ Handling side effects
-
 🧪 Project:
-
  Blog App (Add, Edit, Delete post)
-
  Auth-based Login App (mock token)
-
  Notes App (with search/filter)
+
+
+
+
 
 ⚙️ Phase 5: Next.js & Integration (10–15 Days)
 Goal: SSR + Folder-based routing + Backend connect
-
 ✅ Pages vs Components
-
 ✅ Dynamic routing
-
 ✅ API routes
-
 ✅ SSR vs CSR
-
 ✅ Static Generation (SSG)
-
 ✅ Connect with Spring Boot / Mendix backend
-
 🧪 Project:
-
  Portfolio site (with getStaticProps)
-
  Blog with Next.js + Markdown
-
  Task Tracker App (CRUD + API)
+
+
 
 📤 Phase 6: Git, Deployment & Dev Practice
 Goal: Real developer mindset + GitHub-ready profile
-
 ✅ Git basics: init, add, commit, push, pull
-
 ✅ GitHub repo setup for all projects
-
 ✅ Deployment: Vercel (Next.js), Netlify (React), Surge.sh
-
 ✅ README writing (Project desc + setup)
-
 🚀 Bonus Phase: Add-ons for Extra Edge
 ✅ TypeScript basics (optional but valuable)
-
 ✅ TailwindCSS or styled-components for UI
-
 ✅ Start DSA daily (LeetCode 1 Q/day)
-
 ✅ React + Spring Boot Integration (next step after React confident)
 

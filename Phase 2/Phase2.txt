@@ -1,0 +1,16 @@
+⚛️ Phase 2: React Fundamentals (7 Days)
+Goal: React ka flow samajhna + components banana
+✅ Setting up React (Vite recommended)
+✅ JSX syntax
+✅ Functional Components
+✅ props (data pass from parent to child)
+✅ useState for state management
+✅ Event handling (onClick, onChange)
+✅ map() for rendering lists
+✅ Conditional rendering (if, ternary, &&)
+✅ Component reuse & folder structure
+
+🧪 Practice Mini Projects:
+ Counter App
+ Greeting component (props)
+ Dynamic List display (array of names/tasks)

@@ -18,15 +18,16 @@ let, const, var – scope difference ✅
 Arrow functions ()=>{} ✅
 Template literals `Hello ${name}`✅
 Object & array destructuring ✅
-Spread/rest operator ...
-Array methods: map, filter, find, reduce
+Spread/rest operator ...✅
+Array methods: map, filter, find, reduce ✅
 
 Practice (20–30 mins):
- Create array of numbers → filter even numbers
- Map over array of users → return names
- Use object destructuring in a function
+ Create array of numbers → filter even numbers ✅
+ Map over array of users → return names ✅
+ Use object destructuring in a function ✅
  Merge two arrays/objects using spread
 
+---------- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ---------------
 
 
 
@@ -34,46 +35,38 @@ Practice (20–30 mins):
 
 ✅ Day 2 – Functions, Async, Promises
 🧠 Goal: Logic + async flow samajhna (React + API ke liye must)
-
 Learn:
 Callback vs Promise vs async/await
-
 fetch() API calls
-
 setTimeout, setInterval
-
 Arrow vs normal function behavior with this
-
 Practice:
  Create fake fetch API using setTimeout
-
  Write a function using async/await
-
  Chain 2 Promises and handle errors
-
  Timer using setInterval (auto stop after 10 secs)
+
+
+
+
+
+
 
 ✅ Day 3 – DOM + LocalStorage + Real Practice
 🧠 Goal: DOM events, simple UI control + local storage use
-
 Learn:
 document.querySelector(), addEventListener()
-
 localStorage.setItem(), getItem()
-
 JSON.stringify / parse
-
 Form input handling
-
 Mini Project:
  Counter App (Button + / -)
-
  Form that saves name in localStorage
-
  Dark/Light Mode toggle using button
-
 🔁 Optional: One 30-minute LeetCode Session (DSA touch)
 Just solve 1-2 array or string problems (Easy level)
+
+
 
 
 

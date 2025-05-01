@@ -32,5 +32,55 @@ name = "Tusharrajput";
 
 // var is function scoped
 
+//function
+function greet(name){
+    return "hello " + name;
+}
+
+//Expression Fn
+const greet = function (name) {
+    return "hello " + name;
+}
+
+//Arrow Fn
+const greet2 = (name) => {
+    "Hello" + name;
+}
 
 
+// anonmous fn
+setTimeout(function(){
+    console.log("hello")
+}, timeout);
+
+
+
+// Template Literals
+
+const fname = "Tushar";
+const lname = "Rajput";
+const age = 23;
+
+console.log(`Hey ${fname} ${lname} how are you buddy you born in ${new Date().getFullYear() - age}.`);
+
+
+// spread operator & rest operator
+const arr = [1,2,3,4,6,5];
+
+// console.log(...arr);
+
+function add(...arr){
+    for(let i=0; i<6; i++){
+        console.log(i + "okay buddy");
+    }
+}
+
+add(arr);
+
+
+
+
+//ternary
+let secret = 20;
+
+secret > 20 ? "yes":"no";

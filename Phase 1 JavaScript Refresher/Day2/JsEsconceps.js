@@ -31,67 +31,49 @@
 //Promise
 
 let p = new Promise((res, rej) => {
-    let a = 1 + 1;
-    if(a == 2){
-        res('Successful');
-    }
-    else{
-        rej('Failed');
-    }
-})
-
+  let a = 1 + 1;
+  if (a == 2) {
+    res("Successful");
+  } else {
+    rej("Failed");
+  }
+});
 
 p.then((message) => {
-    console.log(message);
+  console.log(message);
 }).catch((message) => {
-    console.log(message);
-})
-
-
-
-
-const userquit = false;
-const userWatchingMeme = true;
-
-
-function PlayinValorant(callback, errorCallback) {
-    if(userquit){
-        errorCallback({
-            name: "User Quit",
-            message :"Play ludo"
-        })
-    }
-    else if(userWatchingMeme){
-        errorCallback({
-            name: "Seriously",
-            message: "Thrower"
-        })
-    }
-    else{
-        callback('GG')
-    }
-}
-
-
-PlayinValorant((message) => {
-    console.log('Success: ' + message);
-},(error) => {
-    console.log(error.name + ' ' + error.message);
+  console.log(message);
 });
 
 
+// EXample 2
+const userquit = false;
+const userWatchingMeme = false;
 
+function PlayinValorantPromise() {
+  return new Promise((res, rej) => {
+    if (userquit) {
+      rej({
+        name: "User Quit",
+        message: "Play ludo",
+      });
+    } else if (userWatchingMeme) {
+      rej({
+        name: "Seriously",
+        message: "Thrower",
+      });
+    } else {
+      res("GG");
+    }
+  });
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+PlayinValorantPromise
+.then(
+  ((message) => {
+    console.log("Success: " + message);
+  })
+.catch((error) => {
+    console.log(error.name + " " + error.message);
+  })
+);

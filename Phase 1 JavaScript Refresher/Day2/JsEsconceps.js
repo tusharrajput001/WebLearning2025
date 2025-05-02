@@ -28,7 +28,7 @@
 //     return myArr;
 // }
 
-//Promise
+//Promise 
 
 let p = new Promise((res, rej) => {
   let a = 1 + 1;
@@ -77,3 +77,53 @@ PlayinValorantPromise
     console.log(error.name + " " + error.message);
   })
 );
+
+
+// ASYNC AWAIT
+
+// Functions running in parallel with other fns are called async fns
+// to overcome the promise chaining
+
+// "async and await make promises easier to write"
+
+// async makes a function return a Promise
+
+// await makes a function wait for a Promise
+
+
+// async always return a promise
+async function sayHello(){
+    return "Hello";
+}
+
+sayHello().then(msg => console.log(msg));
+
+// await is used inside the async to pause the async fn until it executed.
+
+function delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function greet() {
+    console.log("Before Waitin");
+    await delay(3000);
+    console.log("After Waiting");
+}
+
+
+greet();
+
+// API Fetch
+
+async function getUser() {
+    try{
+        const response = await fetch("https://jsonplaceholder.typicode.com/users/1");
+        const user = await response.json();
+        console.log(user);
+    }
+    catch(error){
+        console.log("Error : ", error);
+    }
+}
+
+getUser();

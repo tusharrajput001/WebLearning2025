@@ -127,3 +127,17 @@ async function getUser() {
 }
 
 getUser();
+
+
+
+// Timer using set interval 1 to 10
+
+let start = 1;
+const IntervalTest = setInterval(function() {
+    if(start == 10){
+        clearInterval(IntervalTest)
+    }
+    console.log(start);
+    start += 1;
+}, 1000);
+

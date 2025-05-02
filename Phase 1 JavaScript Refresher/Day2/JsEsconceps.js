@@ -30,6 +30,67 @@
 
 //Promise
 
+let p = new Promise((res, rej) => {
+    let a = 1 + 1;
+    if(a == 2){
+        res('Successful');
+    }
+    else{
+        rej('Failed');
+    }
+})
+
+
+p.then((message) => {
+    console.log(message);
+}).catch((message) => {
+    console.log(message);
+})
+
+
+
+
+const userquit = false;
+const userWatchingMeme = true;
+
+
+function PlayinValorant(callback, errorCallback) {
+    if(userquit){
+        errorCallback({
+            name: "User Quit",
+            message :"Play ludo"
+        })
+    }
+    else if(userWatchingMeme){
+        errorCallback({
+            name: "Seriously",
+            message: "Thrower"
+        })
+    }
+    else{
+        callback('GG')
+    }
+}
+
+
+PlayinValorant((message) => {
+    console.log('Success: ' + message);
+},(error) => {
+    console.log(error.name + ' ' + error.message);
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

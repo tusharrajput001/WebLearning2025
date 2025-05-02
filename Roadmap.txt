@@ -1,4 +1,4 @@
-🧠 WEB Mastery Roadmap (From Zero to Pro)
+🧠 WEB Mastery Roadmap (50-60 DAYS)
 
 🧾 Phase 1: JavaScript Refresher (2–3 Days)
 Goal: React use karne ke liye JS pe solid grip

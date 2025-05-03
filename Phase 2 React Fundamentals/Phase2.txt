@@ -14,3 +14,112 @@ Goal: React ka flow samajhna + components banana
  Counter App
  Greeting component (props)
  Dynamic List display (array of names/tasks)
+
+
+
+ 🗓️ Day 1: React Setup & JSX Basics ✅ 
+
+Goal: Set up your environment and understand JSX.
+Topics:
+Install Node.js & VS Code ✅
+Create a React project using Vite (npm create vite@latest) ✅
+Understand file structure ✅
+What is JSX? How does it work under the hood? ✅
+Differences between HTML and JSX ✅
+Tasks:
+Set up Vite + React project ✅
+Create a simple JSX component displaying your name and a heading ✅
+Practice:
+Modify App.jsx with multiple JSX elements ✅
+Use JSX expressions (e.g. {2 + 2} or {name}) ✅
+
+
+
+
+
+🗓️ Day 2: Functional Components & Props 
+
+Goal: Build reusable components and pass data via props.
+Topics:
+Functional components syntax
+Props: passing data from parent to child
+Props destructuring
+Tasks:
+Create a Greeting component that takes name and message as props
+Practice Mini Project:
+🧪 Greeting Card Generator
+Example: <Greeting name="Amit" message="Welcome to React!" />
+
+
+
+🗓️ Day 3: useState & Handling Events
+
+Goal: Learn how to add interactivity using state and events.
+Topics:
+useState hook for managing local state
+Event handlers: onClick, onChange
+Updating state immutably
+Tasks:
+Build a simple Counter component
+Add increment and decrement buttons
+Practice Mini Project:
+
+🧪 Counter App
+(Bonus: Add a Reset button and disable decrement at 0)
+
+
+
+
+
+🗓️ Day 4: Rendering Lists with map()
+
+Goal: Dynamically render arrays using map().
+Topics:
+Rendering arrays of data
+Assigning key props
+Displaying list items via child components
+Tasks:
+Create an array of tasks or names and render it using .map()
+Practice Mini Project:
+🧪 To-Do List (Just display tasks for now, no state updates yet)
+
+
+
+🗓️ Day 5: Conditional Rendering
+Goal: Show or hide parts of the UI based on conditions.
+Topics:
+if, ternary ? :, and && for rendering
+Using conditions with props or state
+Tasks:
+Create a component that displays "Good Morning" or "Good Night" based on a Boolean isMorning state
+Practice Mini Project:
+🧪 Login/Logout Toggle UI
+(Show either a login or logout button and welcome message based on logged-in state)
+
+
+
+🗓️ Day 6: Component Reuse & Folder Structure
+Goal: Learn to structure your app and reuse components.
+Topics:
+Best practices for folder structure
+Organizing components in /components
+Reusable button, card, list item components
+Tasks:
+Refactor previous mini projects into separate components
+Create a Button component that accepts text and onClick as props
+
+
+
+
+🗓️ Day 7: Recap + Final Mini Project
+Goal: Revise everything and apply it in a single project.
+Mini Project Idea:
+🧪 Task Manager (Basic Version)
+Input field to add task (use useState)
+Display tasks using .map()
+Conditionally render “No Tasks” if list is empty
+Reuse TaskItem component
+Also:
+Do a code walkthrough of what you've built so far
+Reflect on what you understand vs what feels confusing
+Would you like me to make this plan into a downloadable PDF or Notion-compatible format?

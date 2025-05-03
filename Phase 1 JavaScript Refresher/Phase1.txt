@@ -55,9 +55,9 @@ Practice:
 ✅ Day 3 – DOM + LocalStorage + Real Practice
 🧠 Goal: DOM events, simple UI control + local storage use
 Learn:
-document.querySelector(), addEventListener()
-localStorage.setItem(), getItem()
-JSON.stringify / parse
+document.querySelector(), addEventListener() ✅
+localStorage.setItem(), getItem()✅
+JSON.stringify / parse ✅ 
 Form input handling
 Mini Project:
  Counter App (Button + / -)

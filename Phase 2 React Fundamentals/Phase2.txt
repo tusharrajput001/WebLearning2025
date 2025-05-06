@@ -1,4 +1,4 @@
-⚛️ Phase 2: React Fundamentals (7 Days)
+⚛️ Phase 2: React Fundamentals (6 Days)
 Goal: React ka flow samajhna + components banana
 ✅ Setting up React (Vite recommended)
 ✅ JSX syntax
@@ -17,42 +17,22 @@ Goal: React ka flow samajhna + components banana
 
 
 
- 🗓️ Day 1: React Setup & JSX Basics ✅ 
+🗓️ Day 1: Functional Components & Props 
 
-Goal: Set up your environment and understand JSX.
+Goal: Build reusable components and pass data via props. 
 Topics:
-Install Node.js & VS Code ✅
-Create a React project using Vite (npm create vite@latest) ✅
-Understand file structure ✅
-What is JSX? How does it work under the hood? ✅
-Differences between HTML and JSX ✅
+Functional components syntax ✅
+Props: passing data from parent to child ✅
+Props destructuring ✅
 Tasks:
-Set up Vite + React project ✅
-Create a simple JSX component displaying your name and a heading ✅
-Practice:
-Modify App.jsx with multiple JSX elements ✅
-Use JSX expressions (e.g. {2 + 2} or {name}) ✅
-
-
-
-
-
-🗓️ Day 2: Functional Components & Props 
-
-Goal: Build reusable components and pass data via props.
-Topics:
-Functional components syntax
-Props: passing data from parent to child
-Props destructuring
-Tasks:
-Create a Greeting component that takes name and message as props
-Practice Mini Project:
+Create a Greeting component that takes name and message as props ✅
+Practice Mini Project: ✅
 🧪 Greeting Card Generator
-Example: <Greeting name="Amit" message="Welcome to React!" />
+Example: <Greeting name="Amit" message="Welcome to React!" /> ✅
 
 
 
-🗓️ Day 3: useState & Handling Events
+🗓️ Day 2: useState & Handling Events
 
 Goal: Learn how to add interactivity using state and events.
 Topics:
@@ -71,7 +51,7 @@ Practice Mini Project:
 
 
 
-🗓️ Day 4: Rendering Lists with map()
+🗓️ Day 3: Rendering Lists with map()
 
 Goal: Dynamically render arrays using map().
 Topics:
@@ -85,7 +65,7 @@ Practice Mini Project:
 
 
 
-🗓️ Day 5: Conditional Rendering
+🗓️ Day 4: Conditional Rendering
 Goal: Show or hide parts of the UI based on conditions.
 Topics:
 if, ternary ? :, and && for rendering
@@ -98,7 +78,7 @@ Practice Mini Project:
 
 
 
-🗓️ Day 6: Component Reuse & Folder Structure
+🗓️ Day5: Component Reuse & Folder Structure
 Goal: Learn to structure your app and reuse components.
 Topics:
 Best practices for folder structure
@@ -111,7 +91,7 @@ Create a Button component that accepts text and onClick as props
 
 
 
-🗓️ Day 7: Recap + Final Mini Project
+🗓️ Day 6: Recap + Final Mini Project
 Goal: Revise everything and apply it in a single project.
 Mini Project Idea:
 🧪 Task Manager (Basic Version)

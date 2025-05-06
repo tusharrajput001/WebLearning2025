@@ -98,3 +98,6 @@ Goal: Real developer mindset + GitHub-ready profile
 ✅ Start DSA daily (LeetCode 1 Q/day)
 ✅ React + Spring Boot Integration (next step after React confident)
 
+// After that Java + spring + DSA (Daily 1Q)
+// AI ML  
+// then Cloud

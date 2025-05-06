@@ -1,0 +1,13 @@
+📂 Phase 4: Advanced React Concepts (10–15 Days)
+Goal: Real-world app features banana
+✅ useContext for global state
+✅ useReducer (for advanced state logic)
+✅ Custom Hooks
+✅ React Router v6 (Pages, navigation)
+✅ Form validation with libraries (like yup, formik)
+✅ API handling + loading/error UI
+✅ Handling side effects
+🧪 Project:
+ Blog App (Add, Edit, Delete post)
+ Auth-based Login App (mock token)
+ Notes App (with search/filter)

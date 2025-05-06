@@ -48,9 +48,6 @@ Practice Mini Project:✅
 (Bonus: Add a Reset button and disable decrement at 0)✅
 
 
-
-
-
 🗓️ Day 3: Rendering Lists with map()
 
 Goal: Dynamically render arrays using map().

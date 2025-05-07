@@ -75,7 +75,7 @@ Practice Mini Project: ✅
 
 
 
-🗓️ Day 6: Recap + Final Mini Project
+🗓️ Day 5: Recap + Final Mini Project
 Goal: Revise everything and apply it in a single project.
 Mini Project Idea:
 🧪 Task Manager (Basic Version)

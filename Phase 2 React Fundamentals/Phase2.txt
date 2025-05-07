@@ -63,10 +63,10 @@ Practice Mini Project:
 
 
 🗓️ Day 4: Conditional Rendering
-Goal: Show or hide parts of the UI based on conditions.
+Goal: Show or hide parts of the UI based on conditions. 
 Topics:
-if, ternary ? :, and && for rendering
-Using conditions with props or state
+if, ternary ? :, and && for rendering ✅
+Using conditions with props or state 
 Tasks:
 Create a component that displays "Good Morning" or "Good Night" based on a Boolean isMorning state
 Practice Mini Project:

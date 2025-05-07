@@ -66,25 +66,12 @@ Practice Mini Project:
 Goal: Show or hide parts of the UI based on conditions. 
 Topics:
 if, ternary ? :, and && for rendering ✅
-Using conditions with props or state 
+Using conditions with props or state  ✅
 Tasks:
 Create a component that displays "Good Morning" or "Good Night" based on a Boolean isMorning state
-Practice Mini Project:
+Practice Mini Project: ✅
 🧪 Login/Logout Toggle UI
-(Show either a login or logout button and welcome message based on logged-in state)
-
-
-
-🗓️ Day5: Component Reuse & Folder Structure
-Goal: Learn to structure your app and reuse components.
-Topics:
-Best practices for folder structure
-Organizing components in /components
-Reusable button, card, list item components
-Tasks:
-Refactor previous mini projects into separate components
-Create a Button component that accepts text and onClick as props
-
+(Show either a login or logout button and welcome message based on logged-in state) ✅
 
 
 

@@ -11,3 +11,91 @@ Goal: React applications build karna with confidence
  Weather App (OpenWeather API)
  Todo App (add/delete/mark)
  GitHub User Finder (with loading & error state)
+
+
+
+🗓 Day 1: useEffect Deep Dive
+Goal: Master how and when useEffect runs.
+Learn useEffect on mount ([]), on update ([dependencies]) ✅
+Handle cleanup with return function ✅
+🔧 Mini Practice: Counter with document title update ✅
+📚 Resources: React docs + tutorial video ✅
+
+
+
+
+🗓 Day 2: Controlled Forms & Input Handling
+Goal: Handle forms in React using controlled components
+Input, textarea, select – all controlled
+Form submit handling with validation
+🔧 Mini Practice: Simple contact form
+📚 Tip: Use onChange, value, useState effectively
+
+
+
+🗓 Day 3: Lifting State Up
+Goal: Share state between sibling components
+When and why to lift state
+Pass state + setter from parent to child
+🔧 Mini Practice: Two child components updating a common counter
+
+
+
+🗓 Day 4: Component Communication
+Goal: Master parent-child communication
+Props down, callbacks up
+Pass data from child to parent
+🔧 Mini Practice: Modal component controlled by parent
+
+
+🗓 Day 5: Project Structure + Conditional UI
+Goal: Organize React projects like a pro
+Understand components, pages, utils, api folders
+Conditional rendering (?, &&, ternary, loading/error)
+🔧 Mini Practice: Loader spinner + conditional greeting (morning/evening)
+
+
+
+🗓 Day 6–7: Project 1 – Weather App 🌦️
+Use OpenWeather API
+Show loading, error, and data states
+City input, API fetch, display result
+Folder structure and clean components
+🔧 Optional: Add unit conversion (°C/°F)
+
+
+🗓 Day 8: Project 2 – Todo App 📝
+Add, delete, mark complete
+Use local state
+Use map, filter to render and manage todos
+🔧 Optional: Save todos in localStorage
+
+
+🗓 Day 9–10: Project 3 – GitHub User Finder 👤
+Input username → fetch from GitHub API
+Show loading, error, and user profile
+Use useEffect to fetch on change
+
+🔧 Optional: Add pagination or repository list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

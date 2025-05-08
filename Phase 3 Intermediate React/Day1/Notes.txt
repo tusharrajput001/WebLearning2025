@@ -1,0 +1,10 @@
+useEffect is basicallu use for Synchronize the page
+
+1. Basic useEffect it will run once at startup for example to fetchdata on refresh 
+Use useEffect(() => { ... }, []) to log something or fetch data once
+
+2. Understand useEffect on update
+Add state (like a counter)
+when [count] changes the useEffect will run 
+
+Use useEffect(() => { ... }, [count]) to log or react to state changes

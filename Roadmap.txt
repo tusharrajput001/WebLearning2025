@@ -99,6 +99,6 @@ Goal: Real developer mindset + GitHub-ready profile
 We Need : 
 
 JS DEV (MERN + Next.js) + Low-code Dev 
-Backends with Java spring + Backend with JS (node,express,sql,Nosql) + Problem solving skills (DSA),
+Backends with Java + spring + Backend with JS (node,express,sql,Nosql) + Problem solving skills (DSA),
 Deploy Applications and maintain them (Devops/cloud),
 Create AI/ML Models (Gen AI + Agentic AI)

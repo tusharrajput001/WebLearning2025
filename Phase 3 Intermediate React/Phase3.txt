@@ -56,12 +56,12 @@ Conditional rendering (?, &&, ternary, loading/error)
 
 
 
-🗓 Day 6–7: Project 1 – Weather App 🌦️
+🗓 Day 6–7: Project 1 – Weather App 🌦️ ✅
 Use OpenWeather API
-Show loading, error, and data states
-City input, API fetch, display result
+Show loading, error, and data states ✅
+City input, API fetch, display result ✅
 Folder structure and clean components
-🔧 Optional: Add unit conversion (°C/°F)
+🔧 Optional: Add unit conversion (°C/°F) 
 
 
 🗓 Day 8: Project 2 – Todo App 📝
@@ -77,25 +77,3 @@ Show loading, error, and user profile
 Use useEffect to fetch on change
 
 🔧 Optional: Add pagination or repository list
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

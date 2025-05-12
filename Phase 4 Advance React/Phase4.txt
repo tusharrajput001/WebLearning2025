@@ -15,73 +15,73 @@ Goal: Real-world app features banana
 
 
  📆 Day 1: Introduction to useContext
-✅ Learn what Context API is and when to use it.
-✅ Implement a basic global state using useContext.
-🛠 Practice: Theme toggle or User Authentication Context.
+Learn what Context API is and when to use it. ✅
+Implement a basic global state using useContext. ✅
+🛠 Practice: Theme toggle and User Authentication Context. ✅
 
 
 📆 Day 2: useReducer for Advanced State Logic
-✅ Understand useReducer vs useState.
-✅ Implement useReducer in a counter or todo app.
+Understand useReducer vs useState.
+Implement useReducer in a counter or todo app.
 🧩 Combine useReducer with useContext for global state management.
 
 
 📆 Day 3: Custom Hooks
-✅ Learn how to extract logic into reusable custom hooks.
-✅ Create hooks like useToggle, useForm, useFetch.
+Learn how to extract logic into reusable custom hooks.
+Create hooks like useToggle, useForm, useFetch.
 🛠 Refactor previous apps (like counter or todo) to use custom hooks.
 
 📆 Day 4: React Router v6 - Basics
-✅ Install react-router-dom.
-✅ Set up routes using BrowserRouter, Routes, and Route.
-✅ Add navigation with Link and useNavigate.
+Install react-router-dom.
+Set up routes using BrowserRouter, Routes, and Route.
+Add navigation with Link and useNavigate.
 
 
 📆 Day 5: React Router v6 - Advanced
-✅ Learn about route params (useParams), nested routes, and dynamic routing.
-✅ Add private routes and redirects using mock authentication.
+Learn about route params (useParams), nested routes, and dynamic routing.
+Add private routes and redirects using mock authentication.
 
 📆 Day 6: Form Validation Libraries
-✅ Install and use Formik for form handling.
-✅ Add validation with Yup schema.
+Install and use Formik for form handling.
+Add validation with Yup schema.
 🧪 Practice with login/register forms.
 
 📆 Day 7: API Handling - Fetching Data
-✅ Use fetch or axios for GET/POST.
-✅ Display loading and error UI states.
-✅ Use useEffect for API side effects.
+Use fetch or axios for GET/POST.
+Display loading and error UI states.
+Use useEffect for API side effects.
 
 
 📆 Day 8: Advanced API Handling
-✅ Handle CRUD operations (GET, POST, PUT, DELETE).
-✅ Modularize API logic with custom hooks (like useApi).
-✅ Add global error/toast notifications.
+Handle CRUD operations (GET, POST, PUT, DELETE).
+Modularize API logic with custom hooks (like useApi).
+Add global error/toast notifications.
 
 
 📆 Day 9: Side Effects
-✅ Master useEffect for component lifecycle simulation.
-✅ Learn about cleanup functions.
-✅ Practice polling, debouncing, and conditional effects.
+Master useEffect for component lifecycle simulation.
+Learn about cleanup functions.
+Practice polling, debouncing, and conditional effects.
 
 
 📆 Day 10–12: Project – Blog App
 📌 Features: Add, Edit, Delete posts.
-✅ Use Context for user/auth.
-✅ React Router for pages (Home, Post, Edit).
-✅ Formik + Yup for post forms.
-✅ API or localStorage to save data.
+Use Context for user/auth.
+React Router for pages (Home, Post, Edit).
+Formik + Yup for post forms.
+API or localStorage to save data.
 
 📆 Day 13–14: Project – Auth-based Login App
-✅ Mock login with token-based auth.
-✅ Private/public routes.
-✅ Store token in context or localStorage.
-✅ Redirect on login/logout.
-✅ Basic validation with Formik/Yup.
+Mock login with token-based auth.
+Private/public routes.
+Store token in context or localStorage.
+Redirect on login/logout.
+Basic validation with Formik/Yup.
 
 📆 Day 15: Project – Notes App
-✅ Features: Add, Delete, Search, Filter notes.
-✅ Custom hooks for logic (e.g. useNotes).
-✅ Persist notes with localStorage or backend.
-✅ Bonus: Dark/light mode with useContext.
+Features: Add, Delete, Search, Filter notes.
+Custom hooks for logic (e.g. useNotes).
+Persist notes with localStorage or backend.
+Bonus: Dark/light mode with useContext.
 
 Would you like me to generate a printable schedule or checklist for this plan?

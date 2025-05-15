@@ -34,30 +34,26 @@ Set up routes using BrowserRouter, Routes, and Route.  ✅
 Add navigation with Link and useNavigate. ✅
 
 
-📆 Day 4: Form Validation Libraries
-Install and use Formik for form handling.
-Add validation with Yup schema.
-🧪 Practice with login/register forms.
 
-📆 Day 5: API Handling - Fetching Data
+📆 Day 4: API Handling - Fetching Data
 Use fetch or axios for GET/POST.
 Display loading and error UI states.
 Use useEffect for API side effects.
 
 
-📆 Day 6: Advanced API Handling
+📆 Day 5: Advanced API Handling
 Handle CRUD operations (GET, POST, PUT, DELETE).
 Modularize API logic with custom hooks (like useApi).
 Add global error/toast notifications.
 
 
-📆 Day 7: Side Effects
+📆 Day 6: Side Effects
 Master useEffect for component lifecycle simulation.
 Learn about cleanup functions.
 Practice polling, debouncing, and conditional effects.
 
 
-📆 Day 8–10: Project – Blog App
+📆 Day 7–10: Project – Blog App
 📌 Features: Add, Edit, Delete posts.
 Use Context for user/auth.
 React Router for pages (Home, Post, Edit).

@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com"
+    },
+    {
+      "name": "Mr. Tushar Rajput",
+      "id": "2e49"
+    },
+    {
+      "name": "Mr. Tushar Rajput",
+      "id": "3b0b"
+    },
+    {
+      "name": "Mr. Tushar Rajput",
+      "id": "5b88"
+    },
+    {
+      "name": "Mr. Tushar Rajput",
+      "id": "6bff"
+    }
+  ]
+}

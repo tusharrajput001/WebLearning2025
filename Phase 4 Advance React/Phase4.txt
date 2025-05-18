@@ -42,35 +42,28 @@ Use useEffect for API side effects. ✅
 
 
 📆 Day 5: Advanced API Handling
-Handle CRUD operations (GET, POST, PUT, DELETE).
-Modularize API logic with custom hooks (like useApi).
-Add global error/toast notifications.
+Handle CRUD operations (GET, POST, PUT, DELETE). ✅
+Modularize API logic with custom hooks (like useApi). ✅
+Add global error/toast notifications. ✅
 
-
-📆 Day 6: Side Effects
-Master useEffect for component lifecycle simulation.
-Learn about cleanup functions.
-Practice polling, debouncing, and conditional effects.
-
-
-📆 Day 7–10: Project – Blog App
+ 
+📆 Day 6–8: Project – Blog App
 📌 Features: Add, Edit, Delete posts.
 Use Context for user/auth.
 React Router for pages (Home, Post, Edit).
-Formik + Yup for post forms.
+post forms.
 API or localStorage to save data.
 
-📆 Day 11–13: Project – Auth-based Login App
+📆 Day 8–11: Project – Auth-based Login App
 Mock login with token-based auth.
 Private/public routes.
 Store token in context or localStorage.
 Redirect on login/logout.
 Basic validation with Formik/Yup.
 
-📆 Day 14: Project – Notes App
+📆 Day 12: Project – Notes App
 Features: Add, Delete, Search, Filter notes.
 Custom hooks for logic (e.g. useNotes).
 Persist notes with localStorage or backend.
 Bonus: Dark/light mode with useContext.
 
-Would you like me to generate a printable schedule or checklist for this plan?

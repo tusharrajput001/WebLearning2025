@@ -33,16 +33,12 @@ function displayBooks() {
       book.isReaded ? "Already read" : "Not read yet"
     }`;
 
-    // Delete button
     const deleteBtn = document.createElement("button");
     deleteBtn.textContent = "Delete";
-    deleteBtn.style.marginLeft = "10px";
     deleteBtn.onclick = () => deleteBook(book.id);
 
-    // Toggle read button
     const toggleBtn = document.createElement("button");
     toggleBtn.textContent = "Toggle Read";
-    toggleBtn.style.marginLeft = "5px";
     toggleBtn.onclick = () => {
       book.toggleRead();
       displayBooks();
@@ -54,10 +50,28 @@ function displayBooks() {
   });
 }
 
-// Sample books
+// Toggle form visibility
+document.getElementById("newBookBtn").addEventListener("click", () => {
+  const form = document.getElementById("bookForm");
+  form.style.display = form.style.display === "none" ? "block" : "none";
+});
+
+// Handle form submission
+document.getElementById("bookForm").addEventListener("submit", (event) => {
+  event.preventDefault(); // prevent page reload
+
+  const title = document.getElementById("title").value;
+  const author = document.getElementById("author").value;
+  const pages = parseInt(document.getElementById("pages").value);
+  const isReaded = document.getElementById("isReaded").checked;
+
+  addBookToLibrary(title, author, pages, isReaded);
+
+  // Clear form
+  event.target.reset();
+  document.getElementById("bookForm").style.display = "none";
+});
+
+// Optional sample books
 addBookToLibrary("The Hobbit", "J.R.R. Tolkien", 310, true);
-addBookToLibrary("1984", "George Orwell", 328, false);
-addBookToLibrary("1984", "George Orwell", 328, false);
-addBookToLibrary("1984", "George Orwell", 328, false);
-addBookToLibrary("1984", "George Orwell", 328, false);
 addBookToLibrary("1984", "George Orwell", 328, false);

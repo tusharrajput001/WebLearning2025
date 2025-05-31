@@ -5,7 +5,6 @@ Goal: SSR + Folder-based routing + Backend connect
 ✅ API routes
 ✅ SSR vs CSR
 ✅ Static Generation (SSG)
-✅ Connect with Spring Boot / Mendix backend
 🧪 Project:
  Portfolio site (with getStaticProps)
  Blog with Next.js + Markdown

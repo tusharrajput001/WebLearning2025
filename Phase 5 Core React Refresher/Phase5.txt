@@ -1,0 +1,87 @@
+🚩 Level 1: Core React Refresher (Day 1–2)
+✅ Task 1: Counter + Custom Hook
+Build a Counter App with:
+Increment, Decrement, Reset
+Bonus: Create a useCounter custom hook for logic reuse
+🔍 Practice:
+useState
+Custom hooks
+
+
+
+✅ Task 2: Color Picker
+Create an app where user selects a color from a dropdown (Red, Green, Blue) and background changes accordingly.
+🔍 Practice:
+Controlled input
+Dynamic styling
+useState
+
+
+
+✅ Task 3: GitHub User Search
+Build a search bar to fetch GitHub user details:
+Show name, avatar, followers
+Handle “User not found” error
+Show loading spinner while fetching
+🔍 Practice:
+useEffect
+fetch(), async/await
+Conditional rendering
+
+
+🚩 Level 2: Real-World Component Structure (Day 3–4)
+✅ Task 4: Notes App
+Add notes
+Delete note
+Search through notes
+Bonus: Save notes to localStorage using a useLocalStorage custom hook
+🔍 Practice:
+Lifting state up
+Component reuse
+Search/filter logic
+Custom hooks
+
+✅ Task 5: Todo App with Editable Tasks
+Add/Edit/Delete tasks
+Mark as complete/incomplete
+Show task count
+Filter tasks (All / Done / Pending)
+🔍 Practice:
+Conditional UI
+Controlled forms
+State logic
+
+🚩 Level 3: App-Style Experience (Day 5–6)
+✅ Task 6: Fake Login + Dashboard
+Create Login page with email/password
+On login, store isLoggedIn in context (mock it, no backend)
+Redirect to Dashboard component
+Logout clears context and shows login again
+🔍 Practice:
+useContext
+Conditional rendering
+Component structure
+
+
+✅ Task 7: Blog Post Manager
+Add/Edit/Delete blog posts (title + content)
+Use modals for Add/Edit forms
+Validate form: title and content required
+🔍 Practice:
+Form validation
+useState, useEffect
+Reusable form component
+
+
+💡 Bonus Task (Optional)
+🎁 useReducer + Theme Toggle
+Build a Theme Toggle App with:
+Light/Dark mode using useReducer\
+Theme saved to localStorage
+Apply class to root div to change theme
+
+📍 Rules to Follow:
+No copy-paste — only look up syntax if stuck.
+Push each project to GitHub (clean structure, with README).
+Write down 1–2 things you learned after each project.
+

@@ -15,7 +15,7 @@ Create an app where user selects a color from a dropdown (Red, Green, Blue) and 
 Controlled input ✅
 Dynamic styling  ✅
 useState  ✅
- 
+
 
 
 ✅ Task 3: GitHub User Search
@@ -75,6 +75,7 @@ Reusable form component
 
 💡 Bonus Task (Optional)
 🎁 useReducer + Theme Toggle
+Create a form and console data in json format 🌟
 Build a Theme Toggle App with:
 Light/Dark mode using useReducer\
 Theme saved to localStorage

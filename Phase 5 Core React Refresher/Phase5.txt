@@ -12,10 +12,10 @@ Custom hooks✅
 ✅ Task 2: Color Picker
 Create an app where user selects a color from a dropdown (Red, Green, Blue) and background changes accordingly.
 🔍 Practice:
-Controlled input
-Dynamic styling
-useState
-
+Controlled input ✅
+Dynamic styling  ✅
+useState  ✅
+ 
 
 
 ✅ Task 3: GitHub User Search

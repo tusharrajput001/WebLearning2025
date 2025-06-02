@@ -19,14 +19,16 @@ useState  ✅
 
 
 ✅ Task 3: GitHub User Search
-Build a search bar to fetch GitHub user details:
-Show name, avatar, followers
-Handle “User not found” error
-Show loading spinner while fetching
+Build a search bar to fetch GitHub user details: ✅
+Show name, avatar, followers ✅
+Handle “User not found” error ✅ 
+Show loading spinner while fetching ✅ 
 🔍 Practice:
-useEffect
-fetch(), async/await
-Conditional rendering
+useEffect ✅
+fetch(), async/await ✅
+Conditional rendering ✅
+
+Bonus Task - Create a form and console data in json format 🌟 
 
 
 🚩 Level 2: Real-World Component Structure (Day 3–4)
@@ -75,7 +77,7 @@ Reusable form component
 
 💡 Bonus Task (Optional)
 🎁 useReducer + Theme Toggle
-Create a form and console data in json format 🌟
+
 Build a Theme Toggle App with:
 Light/Dark mode using useReducer\
 Theme saved to localStorage

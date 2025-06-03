@@ -7,9 +7,10 @@ export default function NotesList() {
   const { notes } = useNotes();
   const [query, setQuery] = useState("");
 
-  const filteredNotes = notes.filter((note) =>
-    note.title.toLowerCase().includes(query.toLowerCase()) ||
-    note.content.toLowerCase().includes(query.toLowerCase())
+  const filteredNotes = notes.filter(
+    (note) =>
+      note.title.toLowerCase().includes(query.toLowerCase()) ||
+      note.content.toLowerCase().includes(query.toLowerCase())
   );
 
   return (
@@ -23,9 +24,7 @@ export default function NotesList() {
       />
       <div className="note-grid">
         {filteredNotes.length > 0 ? (
-          filteredNotes.map((note) => (
-            <NoteCard key={note.id} note={note} />
-          ))
+          filteredNotes.map((note) => <NoteCard key={note.id} note={note} />)
         ) : (
           <p>No notes found</p>
         )}

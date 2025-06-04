@@ -43,18 +43,9 @@ Component reuse
 Search/filter logic
 Custom hooks
 
-✅ Task 5: Todo App with Editable Tasks
-Add/Edit/Delete tasks
-Mark as complete/incomplete
-Show task count
-Filter tasks (All / Done / Pending)
-🔍 Practice:
-Conditional UI
-Controlled forms
-State logic
 
 🚩 Level 3: App-Style Experience (Day 5–6)
-✅ Task 6: Fake Login + Dashboard
+✅ Task 5: Fake Login + Dashboard
 Create Login page with email/password
 On login, store isLoggedIn in context (mock it, no backend)
 Redirect to Dashboard component
@@ -65,7 +56,7 @@ Conditional rendering
 Component structure
 
 
-✅ Task 7: Blog Post Manager
+✅ Task 6: Blog Post Manager
 Add/Edit/Delete blog posts (title + content)
 Use modals for Add/Edit forms
 Validate form: title and content required

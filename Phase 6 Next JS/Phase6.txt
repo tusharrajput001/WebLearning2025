@@ -1,4 +1,4 @@
-⚙️ Phase 5: Next.js & Integration (10–15 Days)
+⚙️ Phase 6: Next.js & Integration (10–15 Days)
 Goal: SSR + Folder-based routing + Backend connect
 ✅ Pages vs Components
 ✅ Dynamic routing

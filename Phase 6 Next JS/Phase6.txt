@@ -8,4 +8,4 @@ Goal: SSR + Folder-based routing + Backend connect
 🧪 Project:
  Portfolio site (with getStaticProps)
  Blog with Next.js + Markdown
- Task Tracker App (CRUD + API)
+ Task Tracker App (CRUD + API)e

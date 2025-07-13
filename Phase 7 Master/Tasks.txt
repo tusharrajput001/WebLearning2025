@@ -1,11 +1,11 @@
 ✅ Week 1: React + Next.js Core (CSR) – "Notes App"
 Day	Task
 Day 1	Create Next.js app with app/ directory using npx create-next-app@latest
-Create /dashboard page with dummy heading
+Create /dashboard page with dummy heading ✅
 Day 2	Learn useState, useEffect hands-on
-Build Add Note form with local state
+Build Add Note form with local state ✅
 Day 3	Display notes using .map() in a list
-Add Delete note functionality
+Add Delete note functionality ✅
 Day 4	Add /note/[id] dynamic route
 Show selected note using URL param
 Day 5	Add Edit Note functionality in /note/[id]

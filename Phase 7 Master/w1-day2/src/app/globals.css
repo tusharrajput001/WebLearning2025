@@ -1,0 +1,15 @@
+*{
+    justify-content: center;
+}
+
+
+.themeLight{
+    background-color: aliceblue;
+    color: black;
+}
+
+
+.themeDark{
+    background-color: black;
+    color: white;
+}

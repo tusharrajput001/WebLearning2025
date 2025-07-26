@@ -29,7 +29,7 @@ export default function Home() {
   }
   return (
     <div className={`${theme?'themeLight':'themeDark'}`}>
-      <h1 style={{display:'flex'}}>hello</h1>
+      <h1 style={{display:'flex'}}>Practice Use State</h1>
       <div style={{display:"flex"}}>
         <button style={{margin:'10px', width:"40px", height:"30px", alignItems:'center', borderRadius:'50px'}} onClick={handleDecrease}>-</button>
         <h3>{count}</h3>

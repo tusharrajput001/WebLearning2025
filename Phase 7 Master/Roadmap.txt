@@ -15,7 +15,7 @@ Goal: Understand how data flows via props and how components talk. ✅
 ✅ Day 2: useState, Events
 Theory:
 What is useState? ✅
-Handling onClick, onChange, onSubmit events ✅ 
+Handling onClick, onChange, onSubmit events  
 Practice:
 Counter App with “+”, “–” buttons. ✅ 
 Create a Dark/Light Theme toggle button. ✅ 
@@ -160,45 +160,32 @@ Goal: Form handling like a pro
 
 ✅ Day 18: Global State (Zustand/Context)
 Theory:
-
 Global state management options
-
-Practice:
-
+Practice
 Cart Management (add/remove items)
-
 Goal: Learn light state managers
 
 ✅ Day 19: Auth Basics
 Theory:
-
 JWT, NextAuth basics
-
 Practice:
-
 Fake Login → save token → protect /dashboard route
-
 Goal: Auth flow + route protection
 
 ✅ Day 20: Axios Integration
 Theory:
-
 Axios GET, POST, Error Handling
-
 Practice:
-
 Connect weather or movie API
-
 Goal: Learn to connect external APIs
+
 
 ✅ Day 21: Review + Project Setup
 Task:
-
 Finalize project idea (choose from list)
-
-Setup repo, folders, layout
-
+Setp repo, folders, layout
 Goal: Start final app build
+
 
 🎯 WEEK 4: Final Full-Stack App Build (Portfolio Ready)
 Day	Task	Practice/Output
@@ -212,14 +199,6 @@ Day	Task	Practice/Output
 
 🧠 Tools/Resources to Use:
 Fake APIs: https://jsonplaceholder.typicode.com
-
 CSS UI Ideas: https://tailwindcomponents.com
-
 Images: https://unsplash.com
-
 Deployment: https://vercel.com
-
-Agar tu kahe toh mai ye roadmap Notion template / Google Sheet me bhi export karke de sakta hoon ✅
-Shall I start making Day 1 full code task with starter template too?
-
-Bol bhai – kal se rocket launch karein? 🚀

@@ -22,14 +22,14 @@ Create a Dark/Light Theme toggle button. ✅
 Goal: Feel comfortable with state updates and re-rendering. ✅
 
 
-✅ Day 3: useEffect, Lifecycle
+✅ Day 3: useEffect, Lifecycle 
 Theory:
-useEffect: on mount, update, unmount
-Side-effects, fetch data, cleanup
+useEffect: on mount, update, unmount ✅
+Side-effects, fetch data, cleanup ✅ 
 Practice:
-Fetch users from https://jsonplaceholder.typicode.com/users
-Display loading + error + data state.
-Goal: Learn basic API fetching and effect triggers.
+Fetch users from https://jsonplaceholder.typicode.com/users ✅ 
+Display loading + error + data state. ✅
+Goal: Learn basic API fetching and effect triggers. ✅ 
 
 
 ✅ Day 4: Conditional Rendering

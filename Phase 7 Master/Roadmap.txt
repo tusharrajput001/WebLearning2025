@@ -33,7 +33,6 @@ Goal: Learn basic API fetching and effect triggers. ✅
 
 
 ✅ Day 4: Conditional Rendering
-(KHUD SE API FETCH KAR LE DIKHA KOI BHI GET KI )
 Theory:
 Ternary (condition ? a : b), logical && rendering
 Practice:
